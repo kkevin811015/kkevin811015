@@ -16,18 +16,20 @@ Here are some ideas to get you started:
 # Hello, there. I'm Kevin.
 
 ## Currently working on
-I'll apply for any position after Feb, 2024. For a while, I'll do some side projects to grow my skills.
+Just looking for job opportunities in Sydney, escpecially junior back-end developer.
 
 ## Currently learning
-I've studied "AWS Cloud Practitioner Essentials". Now I'll use aws!
-Well, I can use Java, Python, C#. And I performed many project by using Python & web frameworks and also java.
+In Hackthon, I've learned about typescript and Nodejs.
+Now I'll learn about AWS popular services such as EC2, S3.
 
 ## How to reach me
-I'm from South Korea. And now I live in Roseville, Sydeny. You can email me anytime.
+I'm from South Korea. And now I live in Roseville, Sydeny. You can email me anytime. kkevin811015@gmail.com
 
 ## Certificates
 * "Engineer Information Processing"
   - Achieved at 9/Jun/2023 by HRD_Korea
+* "Openmesh Open D/I Hackathon"
+  - Acheived at 22/Dec/2023 by Openmesh Network
 
 ## Fun fact
-* I applied jobs for 2 weeks but no reply. :<
+* Really love to study development technologies.
